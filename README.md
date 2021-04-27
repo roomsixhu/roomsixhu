@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roomsixhu
-- 👀 I’m interested in php, javascript, css, literature, jazz, lilypond, i.e. music notation in documents, e.g. lilypond in md, abc in md offers stackedit.
+- 👀 I’m interested in php, javascript, css, literature, jazz, lilypond, i.e. music notation in documents, e.g. lilypond in md, abc in md offers stackedit. I promote the virial theorem, because it is not regarded in physics in general.
 - 🌱 I’m currently learning xml, xlst, DOM
 - 💞️ I’m looking to collaborate on physics, virial theorem, astrophysics, potentials ( with no constants )
 - 📫 How to reach me : roomsixhu.bplaced.net, roomsixhu(at)freenet.de, and if my little server is up virialsatz.ddns.net
